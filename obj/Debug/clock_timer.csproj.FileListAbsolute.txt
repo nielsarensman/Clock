@@ -1,0 +1,9 @@
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\obj\Debug\clock_timer.csprojResolveAssemblyReference.cache
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\obj\Debug\clock.Form1.resources
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\obj\Debug\clock_timer.csproj.GenerateResource.Cache
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\bin\Debug\clock_timer.exe.config
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\bin\Debug\clock_timer.exe
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\bin\Debug\clock_timer.pdb
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\obj\Debug\clock_timer.Properties.Resources.resources
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\obj\Debug\clock_timer.exe
+C:\Users\niels\Documents\Visual Studio 2017\Projects\clock_timer_.netv2\clock\obj\Debug\clock_timer.pdb
